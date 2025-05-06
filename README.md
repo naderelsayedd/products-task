@@ -68,6 +68,9 @@ This is a Laravel-based web application as a job task for "Al Dabooss Egypt for 
 
    The application will be available at `http://localhost:8000`.
 
+9. **postman API collection:**
+    You can find post man collection for testing at `https://api.postman.com/collections/29380779-452d79b7-1922-4250-b02c-8f5245c0a958?access_key=PMAT-01JTJMFDP20ZQRSCKK4Q5BP6CD` .
+
 ## Additional Commands
 
 - Run tests:
