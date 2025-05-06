@@ -1,6 +1,7 @@
 # Laravel Application
 
-This is a Laravel-based web application. Follow the steps below to set up and run the app locally.
+This is a Laravel-based web application as a job task for "Al Dabooss Egypt for Technical Solutions
+". Follow the steps below to set up and run the app locally.
 
 ## Requirements
 
