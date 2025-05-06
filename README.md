@@ -5,7 +5,7 @@ This is a Laravel-based web application as a job task for "Al Dabooss Egypt for 
 
 ## Requirements
 
-- PHP >= 8.1
+- PHP >= 8.3
 - Composer
 - Laravel >= 10.x
 - MySQL or PostgreSQL
